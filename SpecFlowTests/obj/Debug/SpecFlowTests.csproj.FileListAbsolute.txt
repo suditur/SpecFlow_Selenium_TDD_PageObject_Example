@@ -1,0 +1,12 @@
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\chromedriver.exe
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\SpecFlowTests.dll.config
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\SpecFlowTests.dll
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\SpecFlowTests.pdb
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\SpecFlowPages.dll
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\WebDriver.dll
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\SpecFlowPages.pdb
+C:\Temp\SpecFlow_Example\SpecFlowTests\bin\Debug\WebDriver.xml
+C:\Temp\SpecFlow_Example\SpecFlowTests\obj\Debug\SpecFlowTests.csprojResolveAssemblyReference.cache
+C:\Temp\SpecFlow_Example\SpecFlowTests\obj\Debug\SpecFlowTests.dll
+C:\Temp\SpecFlow_Example\SpecFlowTests\obj\Debug\SpecFlowTests.pdb
